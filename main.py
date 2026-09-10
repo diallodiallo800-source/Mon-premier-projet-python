@@ -1,1 +1,3 @@
-print("Mon projet python foctionne")
+age=25
+print(age)
+
